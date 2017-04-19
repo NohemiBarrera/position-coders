@@ -11,6 +11,7 @@ h1{
 .imagen {
 	width: 230px;
 	height: 200px;
+	border-radius: 5%;
 }
 
 #robots {
